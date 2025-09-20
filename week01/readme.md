@@ -2,7 +2,7 @@
 
 ### **System Requirement Check**
 - 16 GB RAM
-- 40.9 GB SSD available
+- 100.3 GB SSD available
 - OS : Ubuntu 24.04.3 LTS
 - Processor : 13th Gen Intel® Core™ i5-1335U × 12
 
